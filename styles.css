@@ -1,0 +1,84 @@
+body{
+    font-family: 'Vollkorn';
+    background: rgba(224, 195, 144, 0.589);
+}
+
+h2, p, .readme-wallpaper{
+    text-align: center;
+}
+
+a{
+    font-style: normal;
+    color: blueviolet;
+}
+
+.boxes{
+    margin: 2em;
+    padding: 1em;
+    border: solid;
+    border-radius: 5%;
+    display: block;
+    width: 20%;
+}
+
+#container{
+    position: relative;
+}
+
+.boxes:hover{
+    font-style: bold;
+    color: maroon;
+} 
+
+span{
+    color: red;
+    font-weight: bold;
+}
+
+#box1{
+    background: pink;
+}
+
+#box2{
+    background: goldenrod;
+}
+
+#box3{
+    background: rgba(150, 83, 39, 0.863);
+}
+
+#box4{
+    background: forestgreen;
+}
+
+.image{
+    width: 2em;
+    height: 2em;
+    background: powderblue;
+}
+
+#show1{
+    color: aliceblue;
+}
+
+#show2{
+    color: aqua;
+}
+
+#show3{
+    color: blue;
+}
+
+#show4{
+    color: orange;
+}
+
+#show5{
+    color: olive;
+}
+
+#border{
+    margin: 2px;
+    border: solid;
+    color: black;
+}
