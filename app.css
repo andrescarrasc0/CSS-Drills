@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lato';
+    margin: 0;
+}
+
+hr{
+    width: 20%
+}
+
+form{
+    padding: 1em;  
+    margin: 0 auto;
+    width: 175px;
+    border: 1px solid black;
+    box-shadow: 7px 13px 30px -4px rgba(0,0,0,0.75);
+    /* cssmatic.com */
+    margin-top: 1em;
+    background: url(https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/03/26151541/gettyimages-584484540-800x533.jpg);
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 3px;
+}
+
+input, label{
+    display: block;
+}
